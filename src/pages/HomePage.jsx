@@ -458,6 +458,7 @@ const HomePage = () => {
                 >
                   <img
                     src={`https://techutsav2024.blob.core.windows.net/eventimages/${currentData.uniqueName}.jpg`}
+                    /*https://clement2004.blob.core.windows.net/techutsav25/Screenshot 2025-03-03 232015.png*/
                     alt=""
                   />
                 </div>
